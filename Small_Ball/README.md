@@ -1,3 +1,12 @@
+### This Project ButtonPress is part 1 of Visualization Technology Lab1
+
+### Environment
+- Operation System: Windows 10
+- Visual Studio 2022(v143)
+- Windows SDK 10.0
+- C++ 14
+- C MSVC
+
 ### 本项目 ButtonPress 为可视化作业 1 第二部分作业
 ### 实验要求（功能要求已全部实现）
 - 单文档应用程序，MFC标准类型，经典菜单，带停靠式工具栏；
