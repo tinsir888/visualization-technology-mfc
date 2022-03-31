@@ -1,4 +1,4 @@
-### This Project ButtonPress is part 1 of Visualization Technology Lab1
+### This Project SmallBall is part 2 of Visualization Technology Lab1
 
 ### Environment
 - Operation System: Windows 10
@@ -7,10 +7,24 @@
 - C++ 14
 - C MSVC
 ### Headfiles
+framework.h
+
+MainFrm.h
+
+pch.h
+
+Resource.h
+
+SmallBall.h
+
+SmallBallDoc.h
+
+SmallBallView.h
+
+targetver.h
 
 
-
-### 本项目 ButtonPress 为可视化作业 1 第二部分作业
+### 本项目 SmallBall 为可视化作业 1 第二部分作业
 ### 实验要求（功能要求已全部实现）
 - 单文档应用程序，MFC标准类型，经典菜单，带停靠式工具栏；
 - 黑色小球，从左上角开始，向右下方沿着45度方向移动，遇到边界反弹；
@@ -25,3 +39,18 @@
 - C++ 语言标准 默认（ISO C++14 标准）
 - C 语言标准 默认（旧 MSVC）
 ### 使用的库文件
+framework.h
+
+MainFrm.h
+
+pch.h
+
+Resource.h
+
+SmallBall.h
+
+SmallBallDoc.h
+
+SmallBallView.h
+
+targetver.h
