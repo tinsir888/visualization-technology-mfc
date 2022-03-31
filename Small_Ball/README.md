@@ -7,21 +7,14 @@
 - C++ 14
 - C MSVC
 ### Headfiles
-framework.h
-
-MainFrm.h
-
-pch.h
-
-Resource.h
-
-SmallBall.h
-
-SmallBallDoc.h
-
-SmallBallView.h
-
-targetver.h
+- framework.h
+- MainFrm.h
+- pch.h
+- Resource.h
+- SmallBall.h
+- SmallBallDoc.h
+- SmallBallView.h
+- targetver.h
 
 
 ### 本项目 SmallBall 为可视化作业 1 第二部分作业
@@ -39,18 +32,11 @@ targetver.h
 - C++ 语言标准 默认（ISO C++14 标准）
 - C 语言标准 默认（旧 MSVC）
 ### 使用的库文件
-framework.h
-
-MainFrm.h
-
-pch.h
-
-Resource.h
-
-SmallBall.h
-
-SmallBallDoc.h
-
-SmallBallView.h
-
-targetver.h
+- framework.h
+- MainFrm.h
+- pch.h
+- Resource.h
+- SmallBall.h
+- SmallBallDoc.h
+- SmallBallView.h
+- targetver.h
