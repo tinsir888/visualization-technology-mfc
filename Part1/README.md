@@ -21,4 +21,8 @@
 - framework.h
 - MainFrm.h
 - pch.h
-- 
+- resource.h
+- targetver.h
+- Track.h
+- TrackDoc.h
+- TrackView.h
