@@ -21,4 +21,8 @@
 - framework.h
 - MainFrm.h
 - pch.h
-- 
+- resouce.h
+- targetver.h
+- BitmapDisplayView.h
+- BitmapDisplayDoc.h
+- BitmapDisplay.h
